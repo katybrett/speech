@@ -1,0 +1,22 @@
+
+
+img{
+    position: static;
+
+    max-height: 35vh;
+
+   
+        left: 700px;
+        top: 700px;
+    
+    
+    
+}   
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+audio{
+    display: none;
+}
